@@ -1,0 +1,2 @@
+gcc mainS.c -o mainS -lpthread -lglut -lGLU -lGL -lm
+./mainS
